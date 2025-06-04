@@ -24,7 +24,7 @@ This is a full-stack education website that allows users to explore available co
 - **Hibernate** – ORM to interact with the database
 - **MySQL** – Database to store courses and contact messages
 
----
 
-## 🛠️ Project Structure
+
+
 
